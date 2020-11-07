@@ -17,4 +17,4 @@ Each idea will contain these things:
 ## Current list of Ideas:
 [automation][auto] - Will automate this section and other things. More information at the _.md_ file.
 
-[auto]: ../automation.md
+[auto]: ./automation.md
