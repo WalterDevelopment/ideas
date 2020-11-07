@@ -10,7 +10,7 @@ Each idea will contain these things:
   - The **_`#`_** Heading of the file will be a link to the repo.
   - *__(not confirmed)__* A story of issues and their status (solved or open).
 - **_If it doesn't have a repo_**,
-  - **Resources about the requirements for the project _(for example, the youtubesite project would need Next.js, and if it was a repo, that info would be moved to the repo.)_
+  - **Resources about the requirements for the project _(for example, the youtubesite project would need Next.js, and if it was a repo, that info would be moved to the repo.)_**
   - **How to setup the project**
   - Any extra information that you think is important.
 
