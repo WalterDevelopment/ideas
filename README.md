@@ -16,6 +16,7 @@ Each idea will contain these things:
 
 ## Current list of Ideas:
 [automation][auto] - Will automate this section and other things. More information at the _.md_ file.
+
 [wilwa][wilwa] - Idea for [wilwa.net](https://wilwa.net)
 
 [wilwa]: ./wilwa.md
